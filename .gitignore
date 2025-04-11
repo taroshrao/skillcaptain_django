@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore local DB and secrets
+db.sqlite3
+.env
+
+# VS Code settings (optional)
+.vscode/
